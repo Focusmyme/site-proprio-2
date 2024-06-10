@@ -72,19 +72,28 @@ main > h2 {text-align: center;
     font-family: var(--font2);
 font-size: 4vw;}
 
-.p2 {background-image: url('imagens/berserk-armor.jpeg');
-background-position:  center, bottom;
+main > section {padding-top:10px;
+    padding-bottom: 20px;}
+
+.p2 {background-image: url('imagens/Guts\ \(1\).jpeg');
+background-position: bottom  ;
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
 color: white;}
 
-.p2 > p {text-shadow: 10px 10px solid black;}
+
 
 p {font-family: var(--font3);
     font-size: 4vw;
-    padding: 20px;}
+    padding: 20px;
+    }
 
 h3 {font-family: var(--font2);
-    margin-left: 20px;}
+    margin-left: 20px;
+    font-size:6vw;}
+
+.p2 > p {text-shadow: 2px 2px 1px black;}
+
+.p2 > h3 {text-shadow: 2px 2px 1px black;}
 
